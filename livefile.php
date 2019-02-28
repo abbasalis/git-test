@@ -1,2 +1,2 @@
 <?php
-echo "Live file Git Test"
+echo "This is pushed from featued_x to master"
